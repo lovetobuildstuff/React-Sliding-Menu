@@ -1,4 +1,9 @@
-Small app demonstrating how to show and hide a menu using components in React.
+Small app demonstrating the following in React:
+- How to show and hide a menu using components and refs
+- PureComponents and when to use them
+- optimizing render calls
+- avoiding unnecessary rendering
+
 
 ## Available Scripts
 
