@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Sliding-Menu/static/css/main.52b38a6a.chunk.css",
+    "main.js": "/React-Sliding-Menu/static/js/main.15ab273c.chunk.js",
+    "main.js.map": "/React-Sliding-Menu/static/js/main.15ab273c.chunk.js.map",
+    "runtime-main.js": "/React-Sliding-Menu/static/js/runtime-main.2b3815cd.js",
+    "runtime-main.js.map": "/React-Sliding-Menu/static/js/runtime-main.2b3815cd.js.map",
+    "static/js/2.a6add8cf.chunk.js": "/React-Sliding-Menu/static/js/2.a6add8cf.chunk.js",
+    "static/js/2.a6add8cf.chunk.js.map": "/React-Sliding-Menu/static/js/2.a6add8cf.chunk.js.map",
+    "index.html": "/React-Sliding-Menu/index.html",
+    "precache-manifest.c8afcf93d5fb3d866926333b7adf87aa.js": "/React-Sliding-Menu/precache-manifest.c8afcf93d5fb3d866926333b7adf87aa.js",
+    "service-worker.js": "/React-Sliding-Menu/service-worker.js",
+    "static/css/main.52b38a6a.chunk.css.map": "/React-Sliding-Menu/static/css/main.52b38a6a.chunk.css.map",
+    "static/js/2.a6add8cf.chunk.js.LICENSE.txt": "/React-Sliding-Menu/static/js/2.a6add8cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b3815cd.js",
+    "static/js/2.a6add8cf.chunk.js",
+    "static/css/main.52b38a6a.chunk.css",
+    "static/js/main.15ab273c.chunk.js"
+  ]
+}
